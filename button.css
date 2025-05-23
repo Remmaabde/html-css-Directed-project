@@ -1,0 +1,19 @@
+.subscribe{
+    padding:6px;
+    background-color:red;
+    color:white;
+    border:0;
+}
+.join{
+    padding:15px;
+    color:blue;
+    background-color:white;
+    border:1px solid blue;
+}
+.Tweet{
+    padding:15px;
+    background-color:blue;
+    color:white;
+    border:none;
+    border-radius:10px;
+}
