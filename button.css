@@ -17,3 +17,30 @@
     border:none;
     border-radius:10px;
 }
+.stock{
+    color:green;
+    font-weight:bold;
+    font-size:25px;
+}
+.uber{
+    background-color:rgba(22, 22, 22, 0.8);
+    color:white;
+    padding:14px;
+    border:none;
+}
+.uber:hover{
+    cursor:pointer;
+    opacity:0.85;
+    transition:opacity 1s;
+}
+.git{
+    background-color:green;
+    color:white;
+    padding:14px;
+    font-size:20px;
+    border:none;
+}
+.git:hover{
+    cursor:pointer;
+    shadow:10px 10px 5px rgba(63, 55, 68, 0.7);
+}
