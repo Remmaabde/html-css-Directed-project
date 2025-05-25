@@ -3,14 +3,15 @@ img.img1{
     border-radius:10px;
     display:block;
 }
-/*
+
 p.title{
-    width:300px;
+    margin-top:0px;
 }
-    */
+    
 div.video-preview{
     width:300px;
     display:inline-block;
+    vertical-align:top;
     margin-right:20px;
 }
 .search{
@@ -23,9 +24,14 @@ p {
 }
 .channel-picture{
     display:inline-block;
+    width:50px;
+    vertical-align:top;
 }
 .video-info{
     display:inline-block;
+    width:200px;
 }
-.profile-picture{}
+.profile-picture{
+    width:100%;
+}
   
